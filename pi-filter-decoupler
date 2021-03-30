@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T09:52:57.672Z" agent="5.0 (Windows)" etag="f4wOIqlhB-r4RlL3RLQg" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T09:58:38.478Z" agent="5.0 (Windows)" etag="Y5xryy5AKz6netPcU_zI" version="14.5.3" type="github">
   <diagram id="r0bVhY7itcr__MWYnxVz" name="Page-1">
     <mxGraphModel dx="569" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZT7KvBHWfL9RGFZVwSrq-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="211" width="110" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT7KvBHWfL9RGFZVwSrq-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="210" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="ZT7KvBHWfL9RGFZVwSrq-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="529" y="269" width="80" height="38" as="geometry" />
         </mxCell>
@@ -37,12 +43,12 @@
         <mxCell id="ZT7KvBHWfL9RGFZVwSrq-10" value="" style="endArrow=oval;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;startFill=0;endFill=0;" edge="1" parent="1" source="ZT7KvBHWfL9RGFZVwSrq-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="320" as="sourcePoint" />
-            <mxPoint x="300" y="248" as="targetPoint" />
+            <mxPoint x="281" y="248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZT7KvBHWfL9RGFZVwSrq-11" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;startArrow=oval;startFill=0;" edge="1" parent="1">
+        <mxCell id="ZT7KvBHWfL9RGFZVwSrq-11" value="" style="endArrow=none;html=1;endFill=0;startArrow=oval;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="609" y="248" as="sourcePoint" />
+            <mxPoint x="630" y="248" as="sourcePoint" />
             <mxPoint x="559" y="248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -59,19 +65,25 @@
           <mxGeometry x="399" y="210" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZT7KvBHWfL9RGFZVwSrq-16" value="V&lt;sub&gt;IN&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="220" width="40" height="30" as="geometry" />
+          <mxGeometry x="240" y="225" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZT7KvBHWfL9RGFZVwSrq-17" value="V&lt;sub&gt;OUT&lt;/sub&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="220" width="50" height="40" as="geometry" />
+          <mxGeometry x="640" y="224" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZT7KvBHWfL9RGFZVwSrq-18" value="" style="endArrow=oval;html=1;startArrow=oval;startFill=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="328" as="sourcePoint" />
-            <mxPoint x="610" y="328" as="targetPoint" />
+            <mxPoint x="280" y="328" as="sourcePoint" />
+            <mxPoint x="630" y="328" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZT7KvBHWfL9RGFZVwSrq-19" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="1">
           <mxGeometry x="341.25" y="328" width="17.5" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT7KvBHWfL9RGFZVwSrq-28" value="Decoupler" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="525" y="180" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT7KvBHWfL9RGFZVwSrq-29" value="Pi filter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="375" y="180" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
