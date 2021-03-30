@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T09:58:38.478Z" agent="5.0 (Windows)" etag="Y5xryy5AKz6netPcU_zI" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T10:05:53.940Z" agent="5.0 (Windows)" etag="tNGZNstme2MVQnk08e-F" version="14.5.3" type="github">
   <diagram id="r0bVhY7itcr__MWYnxVz" name="Page-1">
     <mxGraphModel dx="569" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="ZT7KvBHWfL9RGFZVwSrq-19" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="1">
           <mxGeometry x="341.25" y="328" width="17.5" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="ZT7KvBHWfL9RGFZVwSrq-28" value="Decoupler" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ZT7KvBHWfL9RGFZVwSrq-28" value="Frakobler" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="525" y="180" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZT7KvBHWfL9RGFZVwSrq-29" value="Pi filter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
